@@ -1,0 +1,16 @@
+﻿ContactID;AccountID;FirstName;LastName;Email;JobTitle;Department;CreatedDate
+C2001;A1001;Anna;Weber;anna.weber@nordicmobility.example;Procurement Director;Procurement;16/02/2023
+C2002;A1002;Thomas;Martin;thomas.martin@hexaindustrie.example;Quality Manager;Quality;08/11/2022
+C2003;A1003;Sophie;de Vries;sophie.devries@bluepeak.example;Compliance Lead;Compliance;22/01/2024
+C2004;A1004;Lucas;Bernard;lucas.bernard@atlasconstruction.example;Operations Director;Operations;01/08/2021
+C2005;A1005;Emma;Laurent;emma.laurent@greengrid.example;HSE Manager;HSE;15/06/2024
+C2006;A1006;Milan;Peeters;milan.peeters@metrofleet.example;Fleet Manager;Operations;02/10/2020
+C2007;A1007;Nina;Schmidt;nina.schmidt@safemed.example;Regulatory Affairs Manager;Compliance;11/01/2025
+C2008;A1008;Pablo;Garcia;pablo.garcia@orioncomponents.example;Plant Director;Operations;19/04/2022
+C2009;A1009;Olivia;Jansen;olivia.jansen@vertexlabs.example;Product Manager;Product;16/03/2025
+C2010;A1010;Noah;Keller;noah.keller@alpinematerials.example;Quality Director;Quality;05/12/2021
+C2011;A1011;Ines;Moreau;ines.moreau@cobaltlogistics.example;Risk Manager;Risk;02/06/2025
+C2012;A1012;Felix;Bauer;felix.bauer@novasafety.example;IT Director;IT;20/08/2023
+C2013;A1013;Maya;;maya.unnamedprospect.example;Business Contact;Sales;07/08/2025
+C2014;A9999;Alex;Rossi;alex.rossi@unknownaccount.example;Consultant;Operations;01/09/2025
+C2003;A1003;Sophie;de Vries;sophie.devries@bluepeak.example;Compliance Lead;Compliance;22/01/2024

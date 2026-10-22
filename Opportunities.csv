@@ -1,0 +1,16 @@
+﻿OpportunityID;AccountID;ContactID;OpportunityName;ServiceType;StageName;Amount;Probability;CloseDate;CreatedDate;Owner
+O3001;A1001;C2001;Annual vehicle fleet inspection;Vehicle Inspection;Closed Won;42000;100;15/02/2025;10/11/2024;Anna Weber
+O3002;A1002;C2002;Industrial site safety audit;Audit;Closed Won;28500;100;31/03/2025;12/01/2025;Marc Dubois
+O3003;A1003;C2003;Connected product certification;Product Testing;Proposal;64000;70;20/11/2025;05/04/2025;Lena Fischer
+O3004;A1004;C2004;Construction equipment inspection;Industrial Inspection;Negotiation;51500;80;15/10/2025;20/02/2025;Julien Petit
+O3005;A1005;C2005;Renewable energy compliance review;Audit;Qualification;37500;30;10/12/2025;18/06/2025;Emma Laurent
+O3006;A1006;C2006;Fleet damage assessment services;Claims & Expertise;Closed Lost;22000;0;30/04/2025;25/01/2025;Milan Peeters
+O3007;A1007;C2007;Medical device conformity assessment;Product Testing;Proposal;89000;60;31/01/2026;14/05/2025;Nina Schmidt
+O3008;A1008;C2008;Factory machinery inspection;Industrial Inspection;Closed Won;46000;100;30/08/2025;02/03/2025;Pablo Garcia
+O3009;A1009;C2009;Cybersecurity testing package;Digital & Product Solutions;Qualification;72000;25;28/02/2026;01/07/2025;Olivia Jansen
+O3010;A1010;C2010;Materials testing framework;Industrial Inspection;Negotiation;33500;75;20/12/2025;22/04/2025;Noah Keller
+O3011;A1011;C2011;Logistics risk assessment;Claims & Expertise;Proposal;18000;55;30/11/2025;10/07/2025;Ines Moreau
+O3012;A1012;C2012;AI product safety evaluation;Digital & Product Solutions;Closed Won;95000;100;15/09/2025;04/02/2025;Felix Bauer
+O3013;A1013;C2013;Prospect compliance workshop;Advisory & Training;Qualification;12,5;20;15/03/2026;10/08/2025;Maya Singh
+O3014;A9999;C2014;Unmapped customer audit;Audit;Proposal;26000;125;10/01/2026;20/08/2025;Alex Rossi
+O3012;A1012;C2012;AI product safety evaluation;Digital & Product Solutions;Closed Won;95000;100;15/09/2025;04/02/2025;Felix Bauer
